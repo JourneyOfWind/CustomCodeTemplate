@@ -1,0 +1,17 @@
+﻿
+//*FileName:    #SCRIPTNAME#
+//*Author:      #Author#
+//*CreateTime:  #CreateTime#
+//*UnityVersion:#UnityVersion#
+//*Version:     #Version#
+//*Description: #Description#
+
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class #SCRIPTNAME#
+{
+    
+}
